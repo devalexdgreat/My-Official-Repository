@@ -49,12 +49,12 @@ I'm a Full Stack Dev. and a Graphic Designer with 2 years of building experience
 
 ### Profile Visits
 
-![visitors](https://komarev.com/ghpvc/?username=dev.alex_dgreat)
+![visitors](https://komarev.com/ghpvc/?username=devalexdgreat)
 
 <details>
 
 ### Github Stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=eni4sure&count_private=true&theme=dark&hide=contribs,issues)
+![Github stats](https://github-readme-stats.vercel.app/api?username=devalexdgreat&count_private=true&theme=dark&hide=contribs,issues)
 
 </details>
