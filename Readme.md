@@ -47,10 +47,6 @@ I'm a Full Stack Dev. and a Graphic Designer with 2 years of building experience
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu OS](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-### Work
-
-Portfolio: https://www.eniolaosabiya.com/portfolio
-
 ### Profile Visits
 
 ![visitors](https://komarev.com/ghpvc/?username=eni4sure)
