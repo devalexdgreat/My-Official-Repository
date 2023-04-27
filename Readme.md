@@ -49,7 +49,7 @@ I'm a Full Stack Dev. and a Graphic Designer with 2 years of building experience
 
 ### Profile Visits
 
-![visitors](https://komarev.com/ghpvc/?username=eni4sure)
+![visitors](https://komarev.com/ghpvc/?username=dev.alex_dgreat)
 
 <details>
 
